@@ -4,9 +4,13 @@
 - Java에서 Collection이란 데이터의 집합, 그룹을 의미한다.
 - JCF : 데이터, collection, 이를 구현하는 클래스를 정의하는 **인터페이스**를 제공한다.
 
+<br>
+
+---
 ### Java Collection Framework의 상속구조
 
-image.png
+![java_collections](https://github.com/ksu3101/TIL/blob/master/DS/image/java_collections.jpg)
+
 
 **Collection**
 - List
@@ -25,6 +29,8 @@ image.png
 - SortedMap
     - TreeMap
 
+<br>
+
 Collection 인터페이스는
 
 1. List
@@ -35,8 +41,9 @@ Collection 인터페이스는
 
 > Map은 Collection 인터페이스를 상속받고 있지 않지만 Collection으로 분류된다.
 
+<br>
 
-
+---
 ### Collection 인터페이스의 특징
 
 |인터페이스|구현클래스|특징|
@@ -46,6 +53,7 @@ Collection 인터페이스는
 |Queue|LinkedList, PriorityQueue|List와 유사|
 |Map|Hashtable, HashMap, TreeMap|키(key), 값(value)의 쌍으로 이루어진 데이터의 집합. 순서는 유지되지 않음. 중복을 허용하지 않지만 값(value)의 중복은 허용|
 
+<br>
 
 ### 1. Set 인터페이스
 : 순서를 유지하지 않는 데이터의 집합으로, 데이터의 중복을 허용하지 않음
@@ -55,6 +63,8 @@ Collection 인터페이스는
     - 순서를 예측할 수 없음
 - **TreeSet**
     - 정렬 방법을 지정할 수 있음
+
+<br>
 
 ### 2. List 인터페이스
 : 순서가 있는 데이터의 집합으로 데이터의 중복을 허용함
@@ -69,6 +79,8 @@ Collection 인터페이스는
     - 단방향 포인터 구조
     - 각 데이터에 대한 인덱스를 가지고 있어 조회할 수 있음.
 
+<br>
+
 ### 3. Map 인터페이스
 : 키(key), 값(value)의 쌍으로 이루어진 데이터의 집합으로, 순서는 유지되지 않으며, 키(key)의 중복은 허용하지 않고 값(value)의 중복은 허용함.
 
@@ -81,22 +93,27 @@ Collection 인터페이스는
 - **TreeMap**
     - 정렬된 순서대로 키(key)와 값(value)를 저장하여 검색이 빠름
 
+<br>
+
 ## Collection을 사용하는 이유
 
 1. **일괄된 API**
--  Collection 밑에 있는 모든 클래스 Collection에서 상속받아 통일된 메서드를 사용할 수 있게 된다.
+  -  Collection 밑에 있는 모든 클래스 Collection에서 상속받아 통일된 메서드를 사용할 수 있게 된다.
 
 2. **프로그래밍 노력 감소**
-- OOP의 추상화의 기본 개념이 성공적으로 구현되어 있다.
-    - 추상화란?
-        - 공통의 속성이나 기능을 묶어 이름을 붙이는 것
-        - ex) 물고기, 사자, 토끼를 동물 또는 생물로 묶는 것
+  - OOP의 추상화의 기본 개념이 성공적으로 구현되어 있다.
+      - 추상화란?
+          - 공통의 속성이나 기능을 묶어 이름을 붙이는 것
+          - ex) 물고기, 사자, 토끼를 동물 또는 생물로 묶는 것
+
+<br>
 
 3. **프로그램 속도 및 품질 향상**
 - 유용한 데이터 구조 및 알고리즘은 성능을 향상시킬 수 있다.
 - Collection을 통해 최상의 구현을 생각할 필요없이 간단하게 Collection API를 사용하여 구현을 하면 된다.
 
----
+<br>
+
 # 느낀 점
 Collection이라는 존재는 수업시간에 들어 알고있었지만 그 개념 자체에 대한 이해도는 많이 떨어졌었습니다.
 
