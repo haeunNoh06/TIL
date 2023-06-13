@@ -14,4 +14,4 @@
 <br>
 
 ### Git
-- [230613_Git Conflict Error 해결](https://github.com/haeunNoh06/TIL/blob/main/Git/%5Bgit%5D%20CONFLICK%20Error.md)
+- [230613_Git Conflict Error 해결](https://github.com/haeunNoh06/TIL/blob/main/Git/%5Bgit%5D%20Conflict%20Error.md)
