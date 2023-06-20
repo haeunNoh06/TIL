@@ -13,6 +13,11 @@
 
 <br>
 
+### JavaScript
+- [230621_DOMContentLoaded에서 초기화가 되지 않아 발생한 Error 해결](https://github.com/haeunNoh06/TIL/blob/main/JavaScript/%5Berror%5DCannot%20read%20properties%20of%20null%20(reading%20'addEventListener').md)
+
+<br>
+
 ### Git
 - [230613_Git Conflict Error 해결](https://github.com/haeunNoh06/TIL/blob/main/Git/%5Bgit%5D%20Conflict%20Error.md)
 
