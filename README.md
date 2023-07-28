@@ -19,6 +19,11 @@
 
 <br>
 
+### MySQL
+- [230728_ERROR 2003: Can't connect to MySQL server on 'localhost:3306' 해결](https://github.com/haeunNoh06/TIL/blob/main/DataBase/MySQL/%5Berror%5D%20Can't%20connect%20to%20MySQL%20server%20on.md)
+
+<br>
+
 ### Git
 - [230613_Git Conflict Error 해결](https://github.com/haeunNoh06/TIL/blob/main/Git/%5Bgit%5D%20Conflict%20Error.md)
 
