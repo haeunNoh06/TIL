@@ -16,6 +16,7 @@
 ### JavaScript
 - [230621_DOMContentLoaded에서 초기화가 되지 않아 발생한 Error 해결](https://github.com/haeunNoh06/TIL/blob/main/JavaScript/%5Berror%5DCannot%20read%20properties%20of%20null%20(reading%20'addEventListener').md)
 - [230627_input text에서 enter키를 누르면 자동 submit이 되는 Error 해결](https://github.com/haeunNoh06/TIL/blob/main/JavaScript/%5BError%5Denter%ED%82%A4%EB%A5%BC%20%EB%88%84%EB%A5%B4%EB%A9%B4%20%EC%9E%90%EB%8F%99%20submit%EB%90%98%EB%8A%94%20%EC%97%90%EB%9F%AC.md)
+- [230730_Promise](https://github.com/haeunNoh06/TIL/blob/main/JavaScript/%5BJavaScript%5D%20Promise.md)
 
 <br>
 
