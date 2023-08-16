@@ -23,6 +23,7 @@
 
 ### MySQL
 - [230728_ERROR 2003: Can't connect to MySQL server on 'localhost:3306' 해결](https://github.com/haeunNoh06/TIL/blob/main/DataBase/MySQL/%5Berror%5D%20Can't%20connect%20to%20MySQL%20server%20on.md)
+- [230817_MySQL 계정 생성 및 권한 부여](https://github.com/haeunNoh06/TIL/blob/main/DataBase/MySQL/%5BMySQL%5D%20mysql%20%EA%B3%84%EC%A0%95%20%EC%83%9D%EC%84%B1%20%EB%B0%8F%20%EA%B6%8C%ED%95%9C%20%EB%B6%80%EC%97%AC.md)
 
 <br>
 
