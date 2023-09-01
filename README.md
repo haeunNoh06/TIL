@@ -27,6 +27,7 @@
 
 ### Git
 - [230613_Git Conflict Error 해결](https://github.com/haeunNoh06/TIL/blob/main/Git/%5Bgit%5D%20Conflict%20Error.md)
+- [230901_Git branch 삭제가 안 되는 Error 해결](https://github.com/haeunNoh06/TIL/blob/main/Git/%5Berror%5D%20git%20branch%EA%B0%80%20%EC%82%AD%EC%A0%9C%EB%90%98%EC%A7%80%20%EC%95%8A%EC%9D%84%20%EB%95%8C.md)
 
 ### SpringBoot
 - [230620_User 예약어로 발생한 Error 해결](https://github.com/haeunNoh06/TIL/blob/main/SpringBoot/%5Berror%5D%20org.h2.jdbc.JdbcSQLSyntaxErrorException.md)
