@@ -13,7 +13,7 @@ dependencies {
 <br>
 
 ## 2. Swagger 사용을 위한 Config 만들기
-`config` 패키지를 하나 만들고 그 안에 `WebConfig`라는 자바 파일을 하나 만들겠습니다.
+`config` 패키지를 하나 만들고 그 안에 `WebConfig`라는 자바 파일을 하나 만들겠습니다.<br>
 ![](https://velog.velcdn.com/images/1109_haeun/post/9044ad7a-794f-4748-b7f3-74603eabe134/image.png)
 
 ```java
