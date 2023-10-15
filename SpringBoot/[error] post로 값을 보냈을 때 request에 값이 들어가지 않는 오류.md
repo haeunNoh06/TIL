@@ -36,9 +36,11 @@
 ```
 ajax를 사용하여 springboot로 만든 api에 제목, 받을 대상의 값을 post로 넘겨 저장하려고 했는데
 
-![](https://velog.velcdn.com/images/1109_haeun/post/32e825f2-aa48-45c0-8d61-1354c09c9309/image.png)제목과 받을 대상을 입력해도
+![](https://velog.velcdn.com/images/1109_haeun/post/32e825f2-aa48-45c0-8d61-1354c09c9309/image.png)
+제목과 받을 대상을 입력해도
 
-![](https://velog.velcdn.com/images/1109_haeun/post/af7f916f-dad9-4eda-989f-61e6ef88f5e1/image.png)api에는 값이 들어가지 않는 오류가 발생했습니다.
+![](https://velog.velcdn.com/images/1109_haeun/post/af7f916f-dad9-4eda-989f-61e6ef88f5e1/image.png)
+api에는 값이 들어가지 않는 오류가 발생했습니다.
 
 
 <br>
@@ -60,9 +62,11 @@ ajax를 사용하여 springboot로 만든 api에 제목, 받을 대상의 값을
 ```
 `param`의 key를 api와 동일하게 `title`, `receiver`로 변경해주고
 
-![](https://velog.velcdn.com/images/1109_haeun/post/ca76502c-27ce-478c-b36f-c65e75c16272/image.png)제목과 받을 대상에 값을 입력해주면
+![](https://velog.velcdn.com/images/1109_haeun/post/ca76502c-27ce-478c-b36f-c65e75c16272/image.png)
+제목과 받을 대상에 값을 입력해주면
 
-![](https://velog.velcdn.com/images/1109_haeun/post/69168467-2623-49d2-92f9-8977bf0ed797/image.png)이렇게 값을 가져와 저장한 것을 확인할 수 있었습니다.
+![](https://velog.velcdn.com/images/1109_haeun/post/69168467-2623-49d2-92f9-8977bf0ed797/image.png)
+이렇게 값을 가져와 저장한 것을 확인할 수 있었습니다.
 
 <br>
 
