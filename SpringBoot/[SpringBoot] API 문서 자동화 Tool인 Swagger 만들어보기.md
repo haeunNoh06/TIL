@@ -31,7 +31,7 @@ public class WebConfig implements WebMvcConfigurer {
     }
 }
 ```
-주의할 점은 `.allowedOrigins("*")`이 `.allowedOriginPatterns("*")`로 바뀌었다는 점입니다.
+여기서 주의할 점이 있는데 `.allowedOrigins("*")`이 `  .allowCredentials(true)`와 함께 쓰이지 못하도록 업데이트가 되었기 때문에 `.allowedOrigins("*")`을 `.allowedOriginPatterns("*")`로 바꿔주어야 합니다.
 
 <br>
 
