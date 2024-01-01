@@ -33,7 +33,7 @@
 - [230620_User 예약어로 발생한 Error 해결](https://github.com/haeunNoh06/TIL/blob/main/SpringBoot/%5Berror%5D%20org.h2.jdbc.JdbcSQLSyntaxErrorException.md)
 - [231015_post로 값을 보냈을 때 request에 값이 들어가지 않는 오류 해결](https://github.com/haeunNoh06/TIL/blob/main/SpringBoot/%5Berror%5D%20post%EB%A1%9C%20%EA%B0%92%EC%9D%84%20%EB%B3%B4%EB%83%88%EC%9D%84%20%EB%95%8C%20request%EC%97%90%20%EA%B0%92%EC%9D%B4%20%EB%93%A4%EC%96%B4%EA%B0%80%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%98%A4%EB%A5%98.md)
 - [231016_API 문서 자동화 Tool인 Swagger 만들어보기](https://github.com/haeunNoh06/TIL/blob/main/SpringBoot/%5BSpringBoot%5D%20API%20%EB%AC%B8%EC%84%9C%20%EC%9E%90%EB%8F%99%ED%99%94%20Tool%EC%9D%B8%20Swagger%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
-- [230101_빌드 환경 IntelliJ IDEA 설정 오류 해결](https://github.com/haeunNoh06/TIL/blob/main/SpringBoot/%5Berror%5D%EB%B9%8C%EB%93%9C%20%ED%99%98%EA%B2%BD%20IntelliJ%20IDEA%20%EC%84%A4%EC%A0%95%20%EC%98%A4%EB%A5%98.md)
+- [240101_빌드 환경 IntelliJ IDEA 설정 오류 해결](https://github.com/haeunNoh06/TIL/blob/main/SpringBoot/%5Berror%5D%EB%B9%8C%EB%93%9C%20%ED%99%98%EA%B2%BD%20IntelliJ%20IDEA%20%EC%84%A4%EC%A0%95%20%EC%98%A4%EB%A5%98.md)
 
 
 ### Firebase
