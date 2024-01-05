@@ -36,5 +36,8 @@
 - [240101_빌드 환경 IntelliJ IDEA 설정 오류 해결](https://github.com/haeunNoh06/TIL/blob/main/SpringBoot/%5Berror%5D%EB%B9%8C%EB%93%9C%20%ED%99%98%EA%B2%BD%20IntelliJ%20IDEA%20%EC%84%A4%EC%A0%95%20%EC%98%A4%EB%A5%98.md)
 
 
+### React
+- [240105_리액트 앱 컴포넌트화](https://github.com/haeunNoh06/TIL/blob/main/React/%5BReact%5D%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%ED%99%94.md)
+
 ### Firebase
 - [230816_웹 호스팅 생성, 배포하기](https://github.com/haeunNoh06/TIL/blob/main/Firebase/%5BFirebase%5D%20%EC%9B%B9%20%ED%98%B8%EC%8A%A4%ED%8C%85%20%EC%83%9D%EC%84%B1%2C%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
